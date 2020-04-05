@@ -14,9 +14,9 @@ The purpose of this task is to create dashboard to visualize the results of the 
 # Source Files: 
 Github Website: https://vsanand27.github.io/Belly_button_biodiversity/
 
-HTML Code:https://github.com/vsanand27/Belly_button_biodiversity/blob/master/index.html
+HTML Code: https://github.com/vsanand27/Belly_button_biodiversity/blob/master/index.html
 
-JavaScript and Plotly: 
+JavaScript and Plotly: https://github.com/vsanand27/Belly_button_biodiversity/blob/master/plots.js
 
 # Creating Dashboard
 In JavaScript, I developed the 3 functions:
