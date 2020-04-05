@@ -1,2 +1,40 @@
 # Belly_button_biodiversity
 Improbable Beef is researching types of bacteria that colonize naval bellies to develop synthetic beef Production. (utilize HTML, JavaScript, Plotly)
+
+# Background
+Improbable food company is performing research to identify strand of bacteria that will be used to develop synthetic beef that taste good.  Roza, the scientist, believes that the bacteria for synthetic beef resides in the belly button of human.  The research on many candidates was done and for confidentiality were assigned an Id.  The record of the results is in a JSON file. 
+
+# Purpose
+The purpose of this task is to create dashboard to visualize the results of the bacterial data for each Volunteer and host it on Github web pages.  The following steps were taken to develop scorecard:
+1)	 Imported JSON file in JavaScript
+2)	Developed functions in JavaScript to manipulate data
+3)	Utilize Plotly to develop graphs to visualize dataset 
+4)	Developed HTML to display dashboard on the website
+
+# Source Files: 
+Github Website: 
+
+HTML Code:
+
+JavaScript and Plotly: 
+
+# Creating Dashboard
+In JavaScript, I developed the 3 functions:
+1)	Init function that retrieves candidate.id from JSON file and Create a Drop-Down list for the website.  
+
+
+2)	OptionChanged function: Runs all functions below when the selection is received
+
+3)	buildMetadata function: Display attributes of the candidate in the text box on left.   
+
+4)	buildCharts function: Display three Charts based on selection
+
+a.	Top 10 sample bacteria found in Belly Button including quantity
+
+b.	Bubble Chart to show different types of bacteria an individual may have including the quantity
+
+c.	Gauge Chart to show how many times a subject may scrub his naval per week
+
+
+# Website Print screen
+
