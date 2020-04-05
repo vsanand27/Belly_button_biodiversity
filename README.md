@@ -22,19 +22,30 @@ JavaScript and Plotly: https://github.com/vsanand27/Belly_button_biodiversity/bl
 In JavaScript, I developed the 3 functions:
 1)	Init function that retrieves candidate.id from JSON file and Create a Drop-Down list for the website.  
 
+![alt text](https://github.com/vsanand27/UFOs/blob/master/static/images/Truth_is_out_there.PNG)
 
 2)	OptionChanged function: Runs all functions below when the selection is received
 
+![alt text](https://github.com/vsanand27/UFOs/blob/master/static/images/Truth_is_out_there.PNG)
+
 3)	buildMetadata function: Display attributes of the candidate in the text box on left.   
+
+![alt text](https://github.com/vsanand27/UFOs/blob/master/static/images/Truth_is_out_there.PNG)
 
 4)	buildCharts function: Display three Charts based on selection
 
 a.	Top 10 sample bacteria found in Belly Button including quantity
 
+![alt text](https://github.com/vsanand27/UFOs/blob/master/static/images/Truth_is_out_there.PNG)
+
 b.	Bubble Chart to show different types of bacteria an individual may have including the quantity
+
+![alt text](https://github.com/vsanand27/UFOs/blob/master/static/images/Truth_is_out_there.PNG)
 
 c.	Gauge Chart to show how many times a subject may scrub his naval per week
 
+![alt text](https://github.com/vsanand27/UFOs/blob/master/static/images/Truth_is_out_there.PNG)
 
 # Website Print screen
 
+![alt text](https://github.com/vsanand27/UFOs/blob/master/static/images/Truth_is_out_there.PNG)
